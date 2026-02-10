@@ -18,7 +18,7 @@ Complete guide for deploying Agri-Mind in production environments.
 
 ```bash
 # Clone and setup
-git clone <repo-url>
+git clone "https://github.com/Eng-Khalaf/Agri-Mind/tree/main"
 cd agri-mind
 python -m venv venv
 source venv/bin/activate
